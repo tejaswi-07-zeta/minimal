@@ -1,123 +1,75 @@
----
+ ---
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 👋 Hi, I'm Pothuri Tejaswi
 
-[Link to another page](./another-page.html).
+Welcome to my portfolio!  
+I'm a Computer Science undergraduate passionate about software development, virtual reality, and embedded systems.
 
-There should be whitespace between paragraphs.
+📍 Madanapalli, Andhra Pradesh  
+📧 tejuchowdary591@gmail.com | 📞 +91 7416311304  
+[LinkedIn](https://www.linkedin.com/in/pothuri-tejaswi-139322230/) • [GitHub](https://github.com/teju-chowdary) • [LeetCode](https://leetcode.com/u/Chowdary-Tej/) • [GFG](https://www.geeksforgeeks.org/user/tejuchowdary591/)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## 🎓 Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**B.Tech in Computer Science**  
+Jawaharlal Nehru Technological University Anantapur  
+*CGPA: 9.0 / 10*  
+*Oct 2021 – Apr 2025*
 
-## Header 2
+**Relevant Coursework:**  
+- Data Structures, Algorithms, OOPS  
+- Operating Systems, Computer Networks  
+- Unity 3D, Database Management, Cloud Computing
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+## 💼 Experience
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### 💻 Amazon – SDE Intern  
+*May 2023 – July 2023, Bangalore*
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- Developed a system to publish metrics for obsolete ASINs, improving tracking efficiency by 25%.
+- Built retry reason filters, reducing processing time by 30%.
+- Enhanced UI for internal tools, leading to a 20% boost in user satisfaction.
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## 🛠 Projects
 
-##### Header 5
+### 🔹 VR Virtual Meeting Room (Unity 3D, VR)
+- Created an immersive 3D meeting platform with real-time voice and gesture interaction.
+- Added customizable room settings for enhanced user experience.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### 🔹 Motion Detection System (IoT, ESP8266)
+- Real-time motion detection system with mobile alerts and zone configuration.
+- Improved accuracy and reduced false alerts with sensitivity tuning.
 
-###### Header 6
+### 🔹 Portfolio Website
+- Responsive personal website with smooth navigation.
+- Showcases projects, experience, and skills professionally.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+## 🧠 Skills
 
-* * *
+**Languages:** Java, Python, C++, JavaScript  
+**Tools & Tech:** Unity 3D, ESP8266, Git, Linux, HTML/CSS, REST APIs  
+**Domains:** Virtual Reality, IoT, Full-Stack Development, Cloud Services
 
-### Here is an unordered list:
+---
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## 🏆 Achievements
 
-### And an ordered list:
+- 🎯 Selected for Amazon Future Engineer Program  
+- 🥇 DXC Technologies Scholarship Winner  
+- 🥈 Second Rank in University  
+- 🌍 Aspire Leaders 2024 Scholar
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+---
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+```text
+Thanks for visiting my portfolio! Feel free to connect with me.
