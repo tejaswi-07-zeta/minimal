@@ -4,7 +4,7 @@ layout: default
 
 # 👋 Hi, I'm Pothuri Tejaswi
 
-Welcome to my portfolio!  
+Welcome to my portfolio!!  
 I'm a Computer Science undergraduate passionate about software development, virtual reality, and embedded systems.
 
 📍 Madanapalli, Andhra Pradesh  
